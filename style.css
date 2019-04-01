@@ -1,0 +1,58 @@
+.two{
+    background-color: #9dffff;
+    margin: 20px;
+    padding: 10px;
+    float: right;
+    width: 96%;
+    text-align: right;
+    display: block;
+}
+
+.one {
+    border-radius: 20px;
+    background-color: #80ffff;
+   border: 10px solid #009b9b;
+   width: 10%;
+    margin: 20px;
+
+    
+    
+    
+}
+.clear{
+    clear:both;
+}
+body{
+    margin: 20px;
+}
+.three {
+    border-radius: 20px;
+    background-color: #80ffff;
+   border: 10px solid #009b9b;
+   width: 70%;;
+    margin: 20px;
+    
+    position: absolute;
+    right: 15px;
+    top: 170px;
+    Display:flex;
+}
+
+.four {
+    border-radius: 20px;
+    background-color: #80ffff;
+   border: 10px solid #009b9b;
+   width: 70%;;
+    margin: 20px;
+    
+    position: absolute;
+    right: 15px;
+    top: 500px;
+    Display:flex;
+    }
+   
+
+
+
+
+
